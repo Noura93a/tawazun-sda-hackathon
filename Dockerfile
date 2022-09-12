@@ -1,5 +1,5 @@
 FROM maven:3.8.6-openjdk-11
-ENV DB_URL=Mysqldb-service
+ENV DB_URL=Mysqldb
 ENV DB_NAME=mysql
 ENV DB_USERNAME=mysql
 ENV DB_PASSWORD=mysql
